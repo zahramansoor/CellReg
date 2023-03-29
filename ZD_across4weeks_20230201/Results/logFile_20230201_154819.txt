@@ -1,0 +1,39 @@
+Sessions list:
+-----------------
+Session 1 - Z:\imaging_yc\concat\week1_converted_Fall.mat
+Session 2 - Z:\imaging_yc\concat\week2_converted_Fall.mat
+Session 3 - Z:\imaging_yc\concat\week3_converted_Fall.mat
+Session 4 - Z:\imaging_yc\concat\week4_converted_Fall.mat
+
+
+General data parameters:
+------------------------
+Number of sessions - 4
+FOV size - 865.2X615.6 [microns] ; (x,y)
+Image size - 721X513 [pixels] ; (x,y)
+
+
+Session alignment parameters:
+----------------------------------
+Reference session - 2
+Alignment Type - Non-rigid
+
+
+Cell registration parameters:
+-----------------------------
+Model maximal distance - 12 [microns]
+Initial registration type - Spatial correlation
+Initial threshold - 0.78
+Registration approach - Simple threshold
+Final threshold - 0.78 
+
+
+General results:
+----------------
+Final number of cells - 1732
+Average fraction of active cells - 0.5
+
+
+
+Comments:
+---------

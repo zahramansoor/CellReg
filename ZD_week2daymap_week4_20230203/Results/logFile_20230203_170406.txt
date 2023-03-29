@@ -1,0 +1,42 @@
+Sessions list:
+-----------------
+Session 1 - Z:\week2day_mapping_cellreg\week4\221225_YC_converted_Fall.mat
+Session 2 - Z:\week2day_mapping_cellreg\week4\221226_YC_converted_Fall.mat
+Session 3 - Z:\week2day_mapping_cellreg\week4\221227_YC_converted_Fall.mat
+Session 4 - Z:\week2day_mapping_cellreg\week4\221228_YC_converted_Fall.mat
+Session 5 - Z:\week2day_mapping_cellreg\week4\221229_YC_converted_Fall.mat
+Session 6 - Z:\week2day_mapping_cellreg\week4\221230_YC_converted_Fall.mat
+Session 7 - Z:\week2day_mapping_cellreg\week4\week4_YC_converted_Fall.mat
+
+
+General data parameters:
+------------------------
+Number of sessions - 7
+FOV size - 865.2X615.6 [microns] ; (x,y)
+Image size - 721X513 [pixels] ; (x,y)
+
+
+Session alignment parameters:
+----------------------------------
+Reference session - 7
+Alignment Type - Non-rigid
+
+
+Cell registration parameters:
+-----------------------------
+Model maximal distance - 12 [microns]
+Initial registration type - Spatial correlation
+Initial threshold - 0.91
+Registration approach - Simple threshold
+Final threshold - 0.91 
+
+
+General results:
+----------------
+Final number of cells - 3752
+Average fraction of active cells - 0.2
+
+
+
+Comments:
+---------

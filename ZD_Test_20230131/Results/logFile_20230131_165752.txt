@@ -1,0 +1,55 @@
+Sessions list:
+-----------------
+Session 1 - Z:\cellreg1month_Fmats\221206_YC_converted_Fall.mat
+Session 2 - Z:\cellreg1month_Fmats\221207_YC_converted_Fall.mat
+Session 3 - Z:\cellreg1month_Fmats\221208_YC_converted_Fall.mat
+Session 4 - Z:\cellreg1month_Fmats\221209_YC_converted_Fall.mat
+Session 5 - Z:\cellreg1month_Fmats\221211_YC_converted_Fall.mat
+Session 6 - Z:\cellreg1month_Fmats\221212_YC_converted_Fall.mat
+Session 7 - Z:\cellreg1month_Fmats\221213_YC_converted_Fall.mat
+Session 8 - Z:\cellreg1month_Fmats\221214_YC_converted_Fall.mat
+Session 9 - Z:\cellreg1month_Fmats\221215_YC_converted_Fall.mat
+Session 10 - Z:\cellreg1month_Fmats\221216_YC_converted_Fall.mat
+Session 11 - Z:\cellreg1month_Fmats\221217_YC_converted_Fall.mat
+Session 12 - Z:\cellreg1month_Fmats\221220_YC_converted_Fall.mat
+Session 13 - Z:\cellreg1month_Fmats\221221_YC_converted_Fall.mat
+Session 14 - Z:\cellreg1month_Fmats\221222_YC_converted_Fall.mat
+Session 15 - Z:\cellreg1month_Fmats\221225_YC_converted_Fall.mat
+Session 16 - Z:\cellreg1month_Fmats\221226_YC_converted_Fall.mat
+Session 17 - Z:\cellreg1month_Fmats\221227_YC_converted_Fall.mat
+Session 18 - Z:\cellreg1month_Fmats\221228_YC_converted_Fall.mat
+Session 19 - Z:\cellreg1month_Fmats\221229_YC_converted_Fall.mat
+Session 20 - Z:\cellreg1month_Fmats\221230_YC_converted_Fall.mat
+
+
+General data parameters:
+------------------------
+Number of sessions - 20
+FOV size - 865.2X615.6 [microns] ; (x,y)
+Image size - 721X513 [pixels] ; (x,y)
+
+
+Session alignment parameters:
+----------------------------------
+Reference session - 3
+Alignment Type - Translations and Rotations
+
+
+Cell registration parameters:
+-----------------------------
+Model maximal distance - 12 [microns]
+Initial registration type - Spatial correlation
+Initial threshold - 0.79
+Registration approach - Simple threshold
+Final threshold - 0.79 
+
+
+General results:
+----------------
+Final number of cells - 7150
+Average fraction of active cells - 0.13
+
+
+
+Comments:
+---------

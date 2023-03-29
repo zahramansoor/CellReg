@@ -1,0 +1,40 @@
+Sessions list:
+-----------------
+Session 1 - ZD_Test_20230124\converted_Fall_221206.mat
+Session 2 - ZD_Test_20230124\converted_Fall_221207.mat
+Session 3 - ZD_Test_20230124\converted_Fall_221208.mat
+Session 4 - ZD_Test_20230124\converted_Fall_221209.mat
+Session 5 - ZD_Test_20230124\converted_Fall_221211.mat
+
+
+General data parameters:
+------------------------
+Number of sessions - 5
+FOV size - 865.2X615.6 [microns] ; (x,y)
+Image size - 721X513 [pixels] ; (x,y)
+
+
+Session alignment parameters:
+----------------------------------
+Reference session - 3
+Alignment Type - Non-rigid
+
+
+Cell registration parameters:
+-----------------------------
+Model maximal distance - 12 [microns]
+Initial registration type - Spatial correlation
+Initial threshold - 0.69
+Registration approach - Simple threshold
+Final threshold - 0.69 
+
+
+General results:
+----------------
+Final number of cells - 2733
+Average fraction of active cells - 0.41
+
+
+
+Comments:
+---------

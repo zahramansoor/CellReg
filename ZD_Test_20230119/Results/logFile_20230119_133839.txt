@@ -1,0 +1,52 @@
+Sessions list:
+-----------------
+Session 1 - C:\Users\Han\Documents\MATLAB\CellReg\ZD_Test_20230119\converted_Fall_221206.mat
+Session 2 - C:\Users\Han\Documents\MATLAB\CellReg\ZD_Test_20230119\converted_Fall_221207.mat
+Session 3 - C:\Users\Han\Documents\MATLAB\CellReg\ZD_Test_20230119\converted_Fall_221208.mat
+Session 4 - C:\Users\Han\Documents\MATLAB\CellReg\ZD_Test_20230119\converted_Fall_221209.mat
+Session 5 - C:\Users\Han\Documents\MATLAB\CellReg\ZD_Test_20230119\converted_Fall_221211.mat
+
+
+General data parameters:
+------------------------
+Number of sessions - 5
+FOV size - 865.2X615.6 [microns] ; (x,y)
+Image size - 721X513 [pixels] ; (x,y)
+
+
+Session alignment parameters:
+----------------------------------
+Reference session - 1
+Alignment Type - Translations and Rotations
+
+
+Cell registration parameters:
+-----------------------------
+Model maximal distance - 12 [microns]
+Number of bins - 90
+initial registration type - Centroid distance
+Initial threshold - 2.3 [microns]
+Registration approach - Probabilistic modeling
+Final registration type - Centroid distances
+P_same threshold - 0.5 
+
+
+General results:
+----------------
+Final number of cells - 4496
+Average fraction of active cells - 0.25
+
+Fraction of false positives - 0.02
+Fraction of false negatives - 0.4
+Fraction of uncertain cell-pairs - 0.21
+
+Average register score - 0.93
+Average true positive score - 0.76
+Average true negative score - 0.94
+Average exclusivity score - 0.99
+
+Discrepancy of the model - 0.03
+
+
+Comments:
+---------
